@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTAgHelper", "CustomTA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ViewToController", "02_ViewToController\02_ViewToController.csproj", "{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_State_Management_Controller_To_View", "03_State_Management_Controller_To_View\03_State_Management_Controller_To_View.csproj", "{C63F146E-856F-4BF7-BB59-11D8D9F62F97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C63F146E-856F-4BF7-BB59-11D8D9F62F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C63F146E-856F-4BF7-BB59-11D8D9F62F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C63F146E-856F-4BF7-BB59-11D8D9F62F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C63F146E-856F-4BF7-BB59-11D8D9F62F97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\03_State_Management_Controller_To_View.props" />
+</Project>

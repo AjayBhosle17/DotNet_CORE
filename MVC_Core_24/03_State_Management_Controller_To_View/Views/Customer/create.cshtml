@@ -1,0 +1,57 @@
+﻿@using System.Text.Json
+<h2>Index View Page</h2>
+
+
+Name : @ViewData["Name"]
+<br />
+Age : @ViewBag.Age
+
+<br />
+
+<h2>Tempdata Access using peek as well as Keep Method</h2>
+
+Title : @TempData.Peek("Title");
+<br />
+Title : @{TempData.Keep("Title");}
+after Keep: @TempData["Title"]
+
+<br />
+<h4>Tempdata with complex data</h4>
+
+
+
+
+
+
+<br />
+
+
+<h3>Session</h3>
+
+GetName: @Context.Session.GetString("Name")
+
+
+<br />
+
+<h4>Session COmplex Data</h4>
+
+
+@{
+
+    string data = Context.Session.GetString("CustomerData");
+    Customer customer = JsonSerializer.Deserialize<Customer>(data);
+
+    <p>Name : @customer.Name</p>
+    <p>Email : @customer.Email</p>
+
+    <p>Age : @customer.Age</p>
+
+}
+
+
+<br />
+
+ <br />
+
+
+<a asp-action="Index" class="btn btn-primary mt-3">HomePage</a>

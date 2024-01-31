@@ -1,0 +1,79 @@
+﻿@using System.Text.Json
+
+
+<h3>Normal ViewData & View Bag</h3>
+
+Name : @ViewData["Name"]
+<br />
+Age : @ViewBag.Age
+
+<br />
+
+
+@* wrapper of ViewBag & ViewData *@
+<h3>Wrapper Over ViewBage</h3>
+
+Name : @ViewBag.Name
+<br />
+Age : @ViewData["Age"]
+
+<br />
+
+
+<h2>Tempdata</h2>
+
+Title: @TempData["Title"]
+
+
+<br />
+
+Title : @TempData.Peek("Title");
+<br />
+
+Title :  @{
+
+    TempData.Keep("Title");
+
+}
+after Keep: @TempData["Title"]
+
+<br />
+
+<br />
+<h3>temp Data With Complex Type</h3>   @* when add session state in program.cs compulsory use serialize and deserlize *@
+
+ @{
+   Customer c= TempData["customerData"]  as Customer;
+
+   <p>Name: @c.Name</p>
+    <p>Age: @c.Age</p>
+
+    <p>Email: @c.Email</p>
+
+ }
+
+ <br />
+
+<h3>Session</h3>
+
+GetName: @Context.Session.GetString("Name")    @* get data *@
+
+<br />
+
+<h4>Session COmplex Data</h4>
+
+
+@{
+  
+    Customer customer = JsonSerializer.Deserialize<Customer>(@Context.Session.GetString("CustomerData")?? null);
+   
+    <p>Name : @customer.Name</p>
+    <p>Email : @customer.Email</p>
+
+    <p>Age : @customer.Age</p>
+
+}
+
+
+<br />
+<a asp-action="Create" class="btn btn-primary mt-3">Create Page</a>

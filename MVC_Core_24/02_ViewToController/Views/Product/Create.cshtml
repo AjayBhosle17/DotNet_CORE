@@ -1,19 +1,30 @@
-﻿
+﻿@model Product
+
 <h2>Create New Product</h2>
 
 
 <p>Id : @ViewBag.Id</p>
 <p>Name : @ViewBag.name</p>
 
-<form asp-action="create" asp-controller="Product" method="post" >
+<form asp-action="create" asp-controller="Product" method="post" enctype="multipart/form-data" >
 	<div class="form-group">
 		<label class="form-label">Name</label>
-		<input type="text" name="Name" class="form-control" />
+		<input type="text" asp-for="Name" class="form-control" />
 	</div>
 
 	<div class="form-group">
 		<label class="form-label">Price</label>
-		<input type="text" name="Price" class="form-control" />
+		<input type="text"  asp-for="Price" class="form-control" />
+	</div>
+
+	<div class="form-group">
+		<label class="form-label">Discount</label>
+		<input type="text"  asp-for="Discount" readonly value="10%" class="form-control" />
+	</div>
+
+	<div class="form-group">
+		<label class="form-label">Upload File</label> <br />
+		<input type="file" value="Upload File" asp-for="formFile"/>
 	</div>
 
 	<div class="form-group">

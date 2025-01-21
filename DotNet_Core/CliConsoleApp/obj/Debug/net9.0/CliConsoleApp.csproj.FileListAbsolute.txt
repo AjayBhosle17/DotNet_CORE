@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\bin\Debug\net9.0\CliConsoleApp.exe
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\bin\Debug\net9.0\CliConsoleApp.deps.json
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\bin\Debug\net9.0\CliConsoleApp.runtimeconfig.json
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\bin\Debug\net9.0\CliConsoleApp.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\bin\Debug\net9.0\CliConsoleApp.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.AssemblyInfo.cs
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.sourcelink.json
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\refint\CliConsoleApp.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\CliConsoleApp.genruntimeconfig.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\CliConsoleApp\obj\Debug\net9.0\ref\CliConsoleApp.dll

@@ -14,7 +14,7 @@ namespace _02_Garabge_Collector
              customer.print();*/
 
             Console.WriteLine("max generation is " + $"{GC.MaxGeneration}");
-       
+
             Customer customer = new Customer();
 
             int generation = GC.GetGeneration(customer);
@@ -37,6 +37,19 @@ namespace _02_Garabge_Collector
             generation = GC.GetGeneration(customer);
 
             Console.WriteLine($"customer is allocated in {generation} generation");
+
+            /*
+                        singleton obj = singleton.getObject();
+                        singleton obj1 = singleton.getObject();
+                        singleton obj2 = singleton.getObject();
+                        singleton obj3 = singleton.getObject();
+                        singleton obj4 = singleton.getObject();
+                        singleton obj5 = singleton.getObject();
+                        singleton obj6 = singleton.getObject();
+
+
+                        Console.WriteLine(ReferenceEquals(obj, obj1));*/
+
 
 
         }

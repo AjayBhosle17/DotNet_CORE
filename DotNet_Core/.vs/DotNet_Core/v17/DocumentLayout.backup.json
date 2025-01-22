@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D1936A78-5979-4443-AFD4-09181864297D}|03_Math_library\\03_Math_library.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\03_math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1936A78-5979-4443-AFD4-09181864297D}|03_Math_library\\03_Math_library.csproj|solutionrelative:03_math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_garabge_collector\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|solutionrelative:02_garabge_collector\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}|03_msTest\\03_msTest.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\03_mstest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}|03_msTest\\03_msTest.csproj|solutionrelative:03_mstest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}|03_msTest\\03_msTest.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\03_mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}|03_msTest\\03_msTest.csproj|solutionrelative:03_mstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\02_garabge_collector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|solutionrelative:02_garabge_collector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\02_garabge_collector\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|solutionrelative:02_garabge_collector\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\02_garabge_collector\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}|02_Garabge_Collector\\02_Garabge_Collector.csproj|solutionrelative:02_garabge_collector\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F560460-51FF-4A13-9B9F-0E4D3C781DCF}|01_Client\\01_Client.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\01_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,33 +61,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_msTest\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "03_msTest\\CalculatorTest.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_msTest\\CalculatorTest.cs*",
+              "RelativeToolTip": "03_msTest\\CalculatorTest.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwF8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:11:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_Math_library\\Calculator.cs",
+              "RelativeDocumentMoniker": "03_Math_library\\Calculator.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_Math_library\\Calculator.cs",
+              "RelativeToolTip": "03_Math_library\\Calculator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:05:30.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_msTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "03_msTest\\MSTestSettings.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\03_msTest\\MSTestSettings.cs",
+              "RelativeToolTip": "03_msTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:07:42.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "singleton.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\singleton.cs",
+              "RelativeDocumentMoniker": "02_Garabge_Collector\\singleton.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\singleton.cs",
+              "RelativeToolTip": "02_Garabge_Collector\\singleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:02:04.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\Customer.cs",
               "RelativeDocumentMoniker": "02_Garabge_Collector\\Customer.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\Customer.cs",
               "RelativeToolTip": "02_Garabge_Collector\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T07:54:02.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\Program.cs",
               "RelativeDocumentMoniker": "02_Garabge_Collector\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\Program.cs*",
-              "RelativeToolTip": "02_Garabge_Collector\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\02_Garabge_Collector\\Program.cs",
+              "RelativeToolTip": "02_Garabge_Collector\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T07:52:58.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "01_Math_Library",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\01_Math_Library\\01_Math_Library.csproj",
               "RelativeDocumentMoniker": "01_Math_Library\\01_Math_Library.csproj",
@@ -82,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\01_Client\\Program.cs",
               "RelativeDocumentMoniker": "01_Client\\Program.cs",
@@ -90,12 +158,11 @@
               "RelativeToolTip": "01_Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T04:09:26.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T04:09:26.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\01_Math_Library\\Calculator.cs",
               "RelativeDocumentMoniker": "01_Math_Library\\Calculator.cs",

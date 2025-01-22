@@ -1,0 +1,12 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\bin\Debug\net8.0\03_Math_library.deps.json
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\bin\Debug\net8.0\03_Math_library.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\bin\Debug\net8.0\03_Math_library.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.AssemblyInfo.cs
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.sourcelink.json
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\refint\03_Math_library.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\03_Math_library.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\03_Math_library\obj\Debug\net8.0\ref\03_Math_library.dll

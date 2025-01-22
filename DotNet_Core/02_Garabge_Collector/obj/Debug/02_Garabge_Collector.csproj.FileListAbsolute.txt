@@ -1,0 +1,7 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\bin\Debug\02_Garabge_Collector.exe.config
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\bin\Debug\02_Garabge_Collector.exe
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\bin\Debug\02_Garabge_Collector.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\obj\Debug\02_Garabge_Collector.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\obj\Debug\02_Garabge_Collector.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\obj\Debug\02_Garabge_Collector.exe
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\02_Garabge_Collector\obj\Debug\02_Garabge_Collector.pdb

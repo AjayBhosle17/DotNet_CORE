@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Math_Library", "01_Math_Library\01_Math_Library.csproj", "{8B48340F-FCDB-4CD9-9FF9-13751539BF97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Client", "01_Client\01_Client.csproj", "{1F560460-51FF-4A13-9B9F-0E4D3C781DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Garabge_Collector", "02_Garabge_Collector\02_Garabge_Collector.csproj", "{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1F560460-51FF-4A13-9B9F-0E4D3C781DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F560460-51FF-4A13-9B9F-0E4D3C781DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F560460-51FF-4A13-9B9F-0E4D3C781DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8E32BC-A353-4B3C-A855-FC2DCC0A8821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

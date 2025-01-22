@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Math_library", "03_Math_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_msTest", "03_msTest\03_msTest.csproj", "{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Math_Library", "04_Math_Library\04_Math_Library.csproj", "{5E9A215A-5549-4CCA-8AED-212383AE7AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_NUnit_Testing", "04_NUnit_Testing\04_NUnit_Testing.csproj", "{4DD3FC59-4D66-45C3-890D-26B907AEAF60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11B34FF0-27ED-4AAD-B525-72E4AC2BAE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9A215A-5549-4CCA-8AED-212383AE7AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9A215A-5549-4CCA-8AED-212383AE7AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9A215A-5549-4CCA-8AED-212383AE7AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9A215A-5549-4CCA-8AED-212383AE7AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD3FC59-4D66-45C3-890D-26B907AEAF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD3FC59-4D66-45C3-890D-26B907AEAF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD3FC59-4D66-45C3-890D-26B907AEAF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD3FC59-4D66-45C3-890D-26B907AEAF60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

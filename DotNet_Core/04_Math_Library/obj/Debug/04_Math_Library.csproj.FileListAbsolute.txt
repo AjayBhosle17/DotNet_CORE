@@ -1,0 +1,6 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\bin\Debug\04_Math_Library.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\bin\Debug\04_Math_Library.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\obj\Debug\04_Math_Library.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\obj\Debug\04_Math_Library.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\obj\Debug\04_Math_Library.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\04_Math_Library\obj\Debug\04_Math_Library.pdb

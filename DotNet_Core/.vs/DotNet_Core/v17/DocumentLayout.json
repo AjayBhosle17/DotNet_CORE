@@ -1,7 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF018F0A-8427-4EB6-AF78-6605A34C3558}|Web_UI_Test\\Web_UI_Test.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui_test\\category_controller_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF018F0A-8427-4EB6-AF78-6605A34C3558}|Web_UI_Test\\Web_UI_Test.csproj|solutionrelative:web_ui_test\\category_controller_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF018F0A-8427-4EB6-AF78-6605A34C3558}|Web_UI_Test\\Web_UI_Test.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui_test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF018F0A-8427-4EB6-AF78-6605A34C3558}|Web_UI_Test\\Web_UI_Test.csproj|solutionrelative:web_ui_test\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\app_start\\unityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\dal\\migrations\\202501222028012_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501222028012_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Unity.Mvc5.1.4.0\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDE848D-7C70-47A7-BE39-4BEBA7B1686D}|BAL\\BAL.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDE848D-7C70-47A7-BE39-4BEBA7B1686D}|BAL\\BAL.csproj|solutionrelative:bal\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42215EF-AC58-4BE3-BFFF-B679ED47C5FA}|Repository\\Repository.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42215EF-AC58-4BE3-BFFF-B679ED47C5FA}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDE848D-7C70-47A7-BE39-4BEBA7B1686D}|BAL\\BAL.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDE848D-7C70-47A7-BE39-4BEBA7B1686D}|BAL\\BAL.csproj|solutionrelative:bal\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42215EF-AC58-4BE3-BFFF-B679ED47C5FA}|Repository\\Repository.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42215EF-AC58-4BE3-BFFF-B679ED47C5FA}|Repository\\Repository.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\web_ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\web_ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1490480D-3C6E-447F-BC4E-9DCA0ACE98FC}|WEB_UI\\WEB_UI.csproj|solutionrelative:web_ui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAA3EF6-3302-4E50-B75E-52513732A6AC}|DAL\\DAL.csproj|solutionrelative:dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD3FC59-4D66-45C3-890D-26B907AEAF60}|04_NUnit_Testing\\04_NUnit_Testing.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\04_nunit_testing\\nunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD3FC59-4D66-45C3-890D-26B907AEAF60}|04_NUnit_Testing\\04_NUnit_Testing.csproj|solutionrelative:04_nunit_testing\\nunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37B83DB-FFC1-4CC1-9E9D-DE662964EED1}|05_Math_library_for_Xunit\\05_Math_library_for_Xunit.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_math_library_for_xunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37B83DB-FFC1-4CC1-9E9D-DE662964EED1}|05_Math_library_for_Xunit\\05_Math_library_for_Xunit.csproj|solutionrelative:05_math_library_for_xunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F21D5C44-BF1E-44BB-B647-27792CFDEF59}|05_XUnitTesting\\05_XUnitTesting.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_xunittesting\\xunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F21D5C44-BF1E-44BB-B647-27792CFDEF59}|05_XUnitTesting\\05_XUnitTesting.csproj|solutionrelative:05_xunittesting\\xunittesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +111,292 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category_Controller_Test.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_UI_Test\\Category_Controller_Test.cs",
+              "RelativeDocumentMoniker": "Web_UI_Test\\Category_Controller_Test.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_UI_Test\\Category_Controller_Test.cs",
+              "RelativeToolTip": "Web_UI_Test\\Category_Controller_Test.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwBsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:04:50.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WEB_UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WEB_UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:16:00.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_UI_Test\\packages.config",
+              "RelativeDocumentMoniker": "Web_UI_Test\\packages.config",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_UI_Test\\packages.config",
+              "RelativeToolTip": "Web_UI_Test\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T21:03:46.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WEB_UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WEB_UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:35:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "WEB_UI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "WEB_UI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:35:08.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "202501222028012_AddCategoryTable.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Migrations\\202501222028012_AddCategoryTable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501222028012_AddCategoryTable.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Migrations\\202501222028012_AddCategoryTable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501222028012_AddCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:28:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:25:29.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "WEB_UI\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "WEB_UI\\App_Start\\UnityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:18:24.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WEB_UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T20:23:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Global.asax.cs",
+              "RelativeDocumentMoniker": "WEB_UI\\Global.asax.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Global.asax.cs",
+              "RelativeToolTip": "WEB_UI\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:20:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "RelativeToolTip": "packages\\Unity.Mvc5.1.4.0\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-22T20:17:33.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\BAL\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\CategoryService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\BAL\\CategoryService.cs",
+              "RelativeToolTip": "BAL\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:13:46.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\BAL\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BAL\\ICategoryService.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\BAL\\ICategoryService.cs",
+              "RelativeToolTip": "BAL\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:12:47.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:10:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IcategoryRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Repository\\IcategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IcategoryRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Repository\\IcategoryRepository.cs",
+              "RelativeToolTip": "Repository\\IcategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:09:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:06:19.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Web.config",
+              "RelativeDocumentMoniker": "WEB_UI\\Web.config",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Web.config",
+              "RelativeToolTip": "WEB_UI\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T20:01:23.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\packages.config",
+              "RelativeDocumentMoniker": "WEB_UI\\packages.config",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\packages.config",
+              "RelativeToolTip": "WEB_UI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-22T20:06:44.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Category.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\DAL\\Category.cs",
+              "RelativeToolTip": "DAL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:04:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NunitTesting.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\04_NUnit_Testing\\NunitTesting.cs",
+              "RelativeDocumentMoniker": "04_NUnit_Testing\\NunitTesting.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\04_NUnit_Testing\\NunitTesting.cs",
+              "RelativeToolTip": "04_NUnit_Testing\\NunitTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:37:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XUnitTesting.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_XUnitTesting\\XUnitTesting.cs",
+              "RelativeDocumentMoniker": "05_XUnitTesting\\XUnitTesting.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_XUnitTesting\\XUnitTesting.cs",
+              "RelativeToolTip": "05_XUnitTesting\\XUnitTesting.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwFIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:32:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_Math_library_for_Xunit\\Calculator.cs",
+              "RelativeDocumentMoniker": "05_Math_library_for_Xunit\\Calculator.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\05_Math_library_for_Xunit\\Calculator.cs",
+              "RelativeToolTip": "05_Math_library_for_Xunit\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:29:47.515Z",
+              "EditorCaption": ""
             }
           ]
         }

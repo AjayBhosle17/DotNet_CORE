@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\DAL.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\DAL.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\DAL.dll.config
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.xml
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.Migrations.AddCategoryTable.resources
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

@@ -1,0 +1,6 @@
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\bin\Debug\05_Math_library_for_Xunit.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\bin\Debug\05_Math_library_for_Xunit.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\obj\Debug\05_Math_library_for_Xunit.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\obj\Debug\05_Math_library_for_Xunit.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\obj\Debug\05_Math_library_for_Xunit.dll
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\05_Math_library_for_Xunit\obj\Debug\05_Math_library_for_Xunit.pdb

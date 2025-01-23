@@ -10,5 +10,7 @@ namespace DAL
     public class ApplicationDbContext:DbContext
     {
         public DbSet<Category> categories {  get; set; }
+
+        public DbSet<Product> products { get; set; }    
     }
 }

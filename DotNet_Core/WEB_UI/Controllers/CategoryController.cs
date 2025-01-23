@@ -1,4 +1,5 @@
 ﻿using BAL;
+using DAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,75 +24,108 @@ namespace WEB_UI.Controllers
             return View(categories);
         }
 
-        // GET: Category/Details/5
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
 
-        // GET: Category/Create
+        [HttpGet]
         public ActionResult Create()
         {
-            return View();
+
+            return View("Create");
         }
 
-        // POST: Category/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                _service.Create(category);
+                return RedirectToAction("Index");
+            }
+
+            return View(category);
+        }
+
+        [HttpGet]
+        public ActionResult Details(int? id)
+        {
+            if (id > 0)
+            {
+                Category category = _service.GetById(id);
+
+                if (category != null)
+                {
+                    return View(category);
+                }
+
+                return HttpNotFound();
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public ActionResult Edit(int? id)
+        {
+            if (id > 0)
+            {
+                var category = _service.GetById(id);
+
+                if (category != null)
+                {
+                    return View(category);
+                }
+
+                return HttpNotFound();
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        
+        [HttpPost]
+        public ActionResult Edit(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                _service.Edit(category);
+                return RedirectToAction("Index");
+            }
+
+            return View(category);
+        }
+
+
+        [HttpGet]
+        public ActionResult Delete(int? id)
+        {
+            if (id > 0)
+            {
+                var category = _service.GetById(id);
+
+                if (category != null)
+                {
+                    return View(category);
+                }
+
+                return HttpNotFound();
+            }
+
+            return RedirectToAction("Index");
+        }
+
+
+
+        [HttpPost]
+        [ActionName("Delete")]
+        public ActionResult DeleteConfirmed(int id)
         {
             try
             {
-                // TODO: Add insert logic here
-
+                _service.Delete(id);
                 return RedirectToAction("Index");
             }
             catch
             {
-                return View();
-            }
-        }
-
-        // GET: Category/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: Category/Edit/5
-        [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add update logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: Category/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Category/Delete/5
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add delete logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
+                return View("Delete");
             }
         }
     }

@@ -17,9 +17,31 @@ namespace BAL
             _repo= repo;
         }
 
+       
+
         public IEnumerable<Category> GetAll()
         {
             return _repo.GetAll();
+        }
+
+        public void Create(Category category)
+        {
+            _repo.Create(category); 
+        }
+
+        public Category GetById(int? id)
+        {
+           return _repo.GetById(id);
+        }
+
+        public void Edit(Category category)
+        {
+            _repo.Edit(category);
+        }
+
+        public void Delete(int? id)
+        {
+            _repo.Delete(id);
         }
     }
 }

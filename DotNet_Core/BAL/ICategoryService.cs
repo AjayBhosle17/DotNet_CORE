@@ -10,5 +10,13 @@ namespace BAL
     public interface ICategoryService
     {
         IEnumerable<Category> GetAll();
+
+        void Create(Category category);
+
+        Category GetById(int? id);
+
+        void Edit(Category category);
+
+        void Delete(int? id);
     }
 }

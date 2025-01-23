@@ -21,6 +21,9 @@ namespace WEB_UI
             container.RegisterType<ApplicationDbContext, ApplicationDbContext>();
             container.RegisterType<IcategoryRepository, CategoryRepository>();
             container.RegisterType<ICategoryService, CategoryService>();
+
+            container.RegisterType<IProductRepo, ProductRepo>();
+            container.RegisterType<IProductService, ProductService>();
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }
     }

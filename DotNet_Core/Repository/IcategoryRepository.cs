@@ -10,5 +10,14 @@ namespace Repository
     public interface IcategoryRepository
     {
         IEnumerable<Category> GetAll();
+        void Create(Category category);
+
+        
+
+        Category GetById(int? id);
+     
+        void Edit(Category category );
+
+        void Delete(int? id);
     }
 }

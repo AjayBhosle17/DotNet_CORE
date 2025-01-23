@@ -53,6 +53,8 @@
   <ItemGroup>
     <Compile Include="CategoryRepository.cs" />
     <Compile Include="IcategoryRepository.cs" />
+    <Compile Include="IProductRepo.cs" />
+    <Compile Include="ProductRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

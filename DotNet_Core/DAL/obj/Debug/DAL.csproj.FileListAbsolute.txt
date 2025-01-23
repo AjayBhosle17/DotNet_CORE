@@ -13,3 +13,4 @@ D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.xml
 D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.Migrations.AddCategoryTable.resources
 D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Coding2\Ajay V#\DotNet_CORE\DotNet_Core\DAL\obj\Debug\DAL.Migrations.AddProduct.resources

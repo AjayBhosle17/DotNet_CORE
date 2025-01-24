@@ -29,7 +29,7 @@ namespace WEB_UI.Controllers
         [HttpGet]
         public ActionResult Create() { 
         
-            return View();
+            return View("Create");
         }
 
         [HttpPost]
@@ -45,7 +45,6 @@ namespace WEB_UI.Controllers
         }
 
         [HttpGet]
-
         public ActionResult Details(int? id) {
 
             if (id > 0)
@@ -63,6 +62,8 @@ namespace WEB_UI.Controllers
             return RedirectToAction("Index");
 
         }
+
+
         [HttpGet]
         public ActionResult Edit(int? id)
         {

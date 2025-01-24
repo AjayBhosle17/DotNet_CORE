@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F335CBD-2C26-4CF4-8F03-AD512FA24E22}|Web_Ui_Test_For_Product\\Web_Ui_Test_For_Product.csproj|d:\\coding2\\ajay v#\\dotnet_core\\dotnet_core\\web_ui_test_for_product\\testingfor_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F335CBD-2C26-4CF4-8F03-AD512FA24E22}|Web_Ui_Test_For_Product\\Web_Ui_Test_For_Product.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\web_ui_test_for_product\\testingfor_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F335CBD-2C26-4CF4-8F03-AD512FA24E22}|Web_Ui_Test_For_Product\\Web_Ui_Test_For_Product.csproj|solutionrelative:web_ui_test_for_product\\testingfor_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,9 +42,9 @@
               "Title": "TestingFor_Product.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_Ui_Test_For_Product\\TestingFor_Product.cs",
               "RelativeDocumentMoniker": "Web_Ui_Test_For_Product\\TestingFor_Product.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_Ui_Test_For_Product\\TestingFor_Product.cs",
-              "RelativeToolTip": "Web_Ui_Test_For_Product\\TestingFor_Product.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_Ui_Test_For_Product\\TestingFor_Product.cs*",
+              "RelativeToolTip": "Web_Ui_Test_For_Product\\TestingFor_Product.cs*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:12:07.859Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Web_UI_Test\\Category_Controller_Test.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\Web_UI_Test\\Category_Controller_Test.cs",
               "RelativeToolTip": "Web_UI_Test\\Category_Controller_Test.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwBYAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowBYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T13:11:36.342Z",
               "EditorCaption": ""
@@ -76,9 +76,9 @@
               "RelativeDocumentMoniker": "WEB_UI\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\DotNet_Core\\WEB_UI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "WEB_UI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T13:10:47.88Z",
+              "WhenOpened": "2025-01-24T12:42:22.052Z",
               "EditorCaption": ""
             }
           ]

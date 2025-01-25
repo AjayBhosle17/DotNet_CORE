@@ -30,7 +30,7 @@ namespace Web_Ui_Test_For_Product
 
             };
 
-            mock.Setup(s=>s.GetAll()).Returns(products);
+            mock.Setup(s => s.GetAll()).Returns(products);
 
 
 
@@ -43,9 +43,9 @@ namespace Web_Ui_Test_For_Product
             // 3. 
             Assert.NotNull(actual);
             Assert.IsType<ViewResult>(actual);
-            Assert.Equal(products.Count,model.Count());
-            
-            
+            Assert.Equal(products.Count, model.Count());
+
+
         }
 
         [Fact]
@@ -80,7 +80,7 @@ namespace Web_Ui_Test_For_Product
             Mock<IProductService> mock = new Mock<IProductService>();
             ProductController obj = new ProductController(mock.Object);
 
-            Product product = new Product() {Id=1 , Name = "Mobile" , Price=8000 };
+            Product product = new Product() { Id = 1, Name = "Mobile", Price = 8000 };
             //2.Act
 
             var actual = obj.Create(product) as RedirectToRouteResult;
@@ -106,7 +106,7 @@ namespace Web_Ui_Test_For_Product
 
             //2.Act
 
-            var actual= obj.Create(product) as ViewResult;
+            var actual = obj.Create(product) as ViewResult;
 
 
             //3.Assert
@@ -118,23 +118,24 @@ namespace Web_Ui_Test_For_Product
         }
 
         [Fact]
-        public void Details_Zero_Id_RedirectTo_Index() { 
-        
+        public void Details_Zero_Id_RedirectTo_Index()
+        {
+
             //1.Arrange
 
-            Mock<IProductService> mock= new Mock<IProductService>();
-            ProductController obj= new ProductController(mock.Object);
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
 
 
             //2.Act
 
-            var actual= obj.Details(0) as RedirectToRouteResult;
+            var actual = obj.Details(0) as RedirectToRouteResult;
 
             //3.Assert
 
             Assert.NotNull(actual);
             Assert.Equal("Index", actual.RouteValues["action"]);
-        
+
         }
 
         [Fact]
@@ -145,13 +146,13 @@ namespace Web_Ui_Test_For_Product
             Mock<IProductService> mock = new Mock<IProductService>();
             ProductController obj = new ProductController(mock.Object);
 
-            Product product= new Product() { Id=1 , Name ="TV" , Price=200};
+            Product product = new Product() { Id = 1, Name = "TV", Price = 200 };
 
             mock.Setup(s => s.GetById(1)).Returns(product);
 
             //2.Act
 
-           var actual= obj.Details(product.Id) as ViewResult;
+            var actual = obj.Details(product.Id) as ViewResult;
 
 
             //3.Assert
@@ -161,7 +162,291 @@ namespace Web_Ui_Test_For_Product
             Assert.Equal(product.Name, model.Name);
 
         }
+
+        [Fact]
+
+        public void Details_Non_Existing_Id_returnHttpNotFound()
+        {
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+
+            Product product = null;
+
+            mock.Setup(s => s.GetById(1)).Returns(product);
+
+            // 2.act
+
+
+            var actual = obj.Details(1) as HttpNotFoundResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<HttpNotFoundResult>(actual);
+
+        }
+
+
+        [Fact]
+        public void Edit_Get_zeroId_redirectToIndex()
+        {
+            // 1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+
+            //2.Act
+
+            var actual = obj.Edit(0) as RedirectToRouteResult;
+
+
+            // 3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<RedirectToRouteResult>(actual);
+            Assert.Equal("Index", actual.RouteValues["action"]);
+
+        }
+
+
+        [Fact]
+        public void Edit_Get_ValidId_returnViewProduct()
+        {
+            // 1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = new Product() { Id = 1, Name = "TV", Price = 2300 };
+
+            mock.Setup(s => s.GetById(product.Id)).Returns(product);
+            // 2.Act
+
+            var actual = obj.Edit(1) as ViewResult;
+
+            // 3.Assert
+
+            var model = actual.Model as Product;
+
+            Assert.NotNull(actual);
+            Assert.IsType<ViewResult>(actual);
+            Assert.Equal(product, model);
+        }
+
+        [Fact]
+
+        public void Edit_Get_NonExitId_return_Http_Not_Found()
+        {
+
+            // 1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = null;
+
+            mock.Setup(s => s.GetById(1)).Returns(product);
+
+            //2.Act
+
+            var actual = obj.Edit(1) as HttpNotFoundResult;
+
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<HttpNotFoundResult>(actual);
+
+        }
+
+
+        [Fact]
+
+        public void Edit_Post_Valid_Product_ToRedirect_to_Index()
+        {
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = new Product()
+            {
+                Id = 1,
+                Name = "mobile",
+                Price = 2000
+            };
+
+
+
+            //2.Act
+
+            var actual = obj.Edit(product) as RedirectToRouteResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<RedirectToRouteResult>(actual);
+
+
+            //3.Assert
+
+            Assert.Equal("Index", actual.RouteValues["action"]);
+        }
+
+
+        [Fact]
+
+        public void Edit_Post_Invalid_Method_ReturnView()
+        {
+
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = new Product();
+            obj.ModelState.AddModelError("Name", "Name is Required");
+
+            // 2.Act
+
+            var actual = obj.Edit(product) as ViewResult;
+
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+
+            var model = actual.Model as Product;
+
+            Assert.Equal(product, model);
+
+        }
+
+
+        [Fact]
+        public void Delete_Get_Valid_ZeroId_Return_RedirectToAction()
+        {
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            //2.Act
+
+            var actual = obj.Delete(0) as RedirectToRouteResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.Equal("Index", actual.RouteValues["action"]);
+
+
+        }
+
+
+        [Fact]
+        public void Delete_Get_Valid_ValidId_ReturnViewProduct()
+        {
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = new Product()
+            {
+                Id = 1,
+                Name = "Books",
+                Price = 300
+            };
+
+            mock.Setup(s => s.GetById(1)).Returns(product);
+
+            //2.Act
+
+            var actual = obj.Delete(product.Id) as ViewResult;
+
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<ViewResult>(actual);
+
+            var model = actual.Model as Product;
+
+            Assert.Equal(product, model);
+        }
+
+
+        [Fact]
+        public void Delete_Get_InValid_NONExitId_ReturnHttpNotFound()
+        {
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+
+            Product product = null;
+            mock.Setup(s => s.GetById(1)).Returns(product);
+
+            // 2.act
+
+            var actual = obj.Delete(1) as HttpNotFoundResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsType<HttpNotFoundResult>(actual);
+        }
+
+
+        [Fact]
+
+        public void Delete_Post_Method_Valid_Id_ReturnRedirectToIndex()
+        {
+
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            Product product = new Product() { Id = 1, Name = "Laptop", Price=70000 };
+
+            mock.Setup(s => s.Delete(product.Id));
+
+            //2.Act
+
+            var actual = obj.DeleteConfirmed(product.Id) as RedirectToRouteResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsAssignableFrom<RedirectToRouteResult>(actual);
+            Assert.IsType<RedirectToRouteResult>(actual);
+            Assert.Equal("Index", actual.RouteValues["action"]);
+
+        }
+
+        [Fact]
+
+        public void Delete_Post_Method_NonExitId_ReturnView()
+        {
+
+            //1.Arrange
+            Mock<IProductService> mock = new Mock<IProductService>();
+            ProductController obj = new ProductController(mock.Object);
+
+            var ProductId = 1;
+
+            mock.Setup(s => s.Delete(ProductId)).Throws<Exception>();
+
+            //2.Act
+
+            var actual = obj.DeleteConfirmed(ProductId) as ViewResult;
+
+            //3.Assert
+
+            Assert.NotNull(actual);
+            Assert.IsAssignableFrom<ViewResult>(actual);
+            Assert.IsType<ViewResult>(actual);
+            Assert.Equal("Delete", actual.ViewName);
+
+        }
+
+
     }
-
-
 }

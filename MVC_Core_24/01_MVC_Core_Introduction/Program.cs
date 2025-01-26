@@ -20,7 +20,7 @@ namespace _01_MVC_Core_Introduction
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();
+         //   app.UseStaticFiles();
 
             app.UseRouting();
 
@@ -28,7 +28,7 @@ namespace _01_MVC_Core_Introduction
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Category}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -1,0 +1,33 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Category
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>
+             
+           @*   html helper syntax *@
+
+            @Html.EditorFor(Model=>Model.Name)
+        </td>
+    </tr>
+
+    <tr>
+        <td>Rating</td>
+        <td>
+            @Html.EditorFor(Model => Model.Rating)
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <input type="submit" value="create" class="btn btn-primary"/>
+        </td>
+    </tr>
+
+</table>

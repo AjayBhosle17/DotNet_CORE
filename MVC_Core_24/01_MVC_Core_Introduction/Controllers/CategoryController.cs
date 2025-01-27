@@ -12,7 +12,8 @@ namespace _01_MVC_Core_Introduction.Controllers
 
         public IActionResult Create()
         {
-            return View();
+            //return View();
+            return View("CreateNew");
         }
 
         [HttpGet]
@@ -23,5 +24,22 @@ namespace _01_MVC_Core_Introduction.Controllers
 
             return View(c);
         }
+
+
+        /*[HttpGet]
+        // is not way of Dynamic Partial View in core
+        public PartialViewResult DyanamicPartialView()
+        {
+            Category c = new Category()
+            {
+                Id=1 , 
+                Name="Mens Wear",
+                Rating=4
+            };
+            //return PartialView(c);
+            return PartialView("_PartialView2",c);
+        }*/
+
     }
 }
+

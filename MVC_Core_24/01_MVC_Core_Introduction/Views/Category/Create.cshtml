@@ -3,17 +3,18 @@
 *@
 @{
 }
-
+ 
 @model Category
 
+@* 
 <table>
     <tr>
         <td>Name</td>
         <td>
              
-           @*   html helper syntax *@
+          
 
-            @Html.EditorFor(Model=>Model.Name)
+            @Html.EditorFor(s=>s.Name) 
         </td>
     </tr>
 
@@ -31,3 +32,30 @@
     </tr>
 
 </table>
+ 
+ *@
+
+<h1>Create Customer</h1>
+
+@* <form> *@
+
+@using (Html.BeginForm("Create","Category",FormMethod.Post)){
+    <div class="mb-3">
+
+        @Html.LabelFor(Model=>Model.Name,new{@class="form-label"})
+        @Html.EditorFor(model=>model.Name,new{@class="form-label"})
+    </div>
+   
+    <div class="mb-3">
+
+        @Html.LabelFor(Model => Model.Rating, new { @class = "form-label" })
+        @Html.EditorFor(model => model.Rating, new { @class = "form-label" })
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Create</button>
+}
+@* </form> *@
+
+ @Html.ActionLink("BackToList","Index","Category")

@@ -1,11 +1,24 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-
+﻿
 <h1>Category Page</h1>
 
-@Html.ActionLink("Create","Create","Category")
+@section sidebar{ 
+    @Html.ActionLink("Create","Create","Category")
+    <br />
 
-@Html.ActionLink("Details","Details","Category")
+   @*  @Html.ActionLink("Details","Details","Category") *@
+
+   <a asp-action="Details" asp-controller="Category" asp-route-id="100">Details</a>
+}
+
+@Html.Partial("_partialView")
+
+@{
+    Html.RenderPartial("_partialView");
+} 
+
+@* Use Tag helpers *@
+
+ <partial name="_partialView"/> 
+
+
+@await Component.InvokeAsync("first",2)

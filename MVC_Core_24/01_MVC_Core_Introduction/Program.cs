@@ -20,7 +20,7 @@ namespace _01_MVC_Core_Introduction
             }
 
             app.UseHttpsRedirection();
-         //   app.UseStaticFiles();
+           app.UseStaticFiles();
 
             app.UseRouting();
 

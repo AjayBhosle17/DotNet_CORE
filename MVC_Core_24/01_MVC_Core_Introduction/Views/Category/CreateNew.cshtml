@@ -1,0 +1,22 @@
+﻿
+@model Category
+
+
+
+<h3>Create New Customer</h3>
+
+<form asp-action="Create" asp-controller="Category" method="post" enctype="multipart/form-data" > 
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Name" aria-describedby="emailHelp">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Rating" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Rating">
+    </div>
+   
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-action="Index" asp-controller="Category">Back To List</a>

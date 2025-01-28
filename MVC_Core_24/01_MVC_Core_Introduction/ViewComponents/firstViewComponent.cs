@@ -1,9 +1,9 @@
 ﻿using _01_MVC_Core_Introduction.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace _01_MVC_Core_Introduction.ViewComponents.MyFirstViewComponent
+namespace _01_MVC_Core_Introduction.ViewComponents
 {
-    public class firstViewComponent:ViewComponent
+    public class firstViewComponent : ViewComponent
     {
 
         public IViewComponentResult Invoke(int? id)

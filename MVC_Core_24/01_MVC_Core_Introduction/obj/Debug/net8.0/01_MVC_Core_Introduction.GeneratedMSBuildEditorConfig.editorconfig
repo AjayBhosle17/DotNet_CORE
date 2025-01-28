@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Coding2/Ajay V\#/DotNet_CORE/MVC_Core_24/01_MVC_Core_Introduction/Views/Category/DetailsByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlsc0J5TmFtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Coding2/Ajay V\#/DotNet_CORE/MVC_Core_24/01_MVC_Core_Introduction/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Coding2/Ajay V\#/DotNet_CORE/MVC_Core_24/01_MVC_Core_Introduction/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Coding2/Ajay V\#/DotNet_CORE/MVC_Core_24/01_MVC_Core_Introduction/Views/Shared/Components/FakeUsers/FakeUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmFrZVVzZXJzXEZha2VVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Coding2/Ajay V\#/DotNet_CORE/MVC_Core_24/01_MVC_Core_Introduction/Views/Shared/Components/First/First.cshtml]

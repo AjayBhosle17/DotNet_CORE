@@ -20,6 +20,7 @@ namespace _01_MVC_Core_Introduction.Controllers
 
         public IActionResult Privacy()
         {
+           
             return View();
         }
 

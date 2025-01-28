@@ -22,3 +22,38 @@
 
 
 @await Component.InvokeAsync("first",2)
+
+<div class="border border-2 bg-warning text-black p-3">
+
+    @await Component.InvokeAsync("FakeUsers")   
+
+</div>
+
+
+<a asp-action="DetailsByName" asp-controller="Category" asp-route-name="Ajay Bhosle">Details By Name</a>
+
+
+@*  on one request to call multiple action method *@
+
+<div class="border border-2 bg-primary text-white p-3" id="divDetails">
+
+</div>
+
+<script>
+   $(function(){
+
+       $.ajax({
+           url:'@Url.Action("details")',
+           type:'get',
+           success:function(response){
+                $('#divDetails').html(response);
+           },
+           error:function(error){
+           
+               alert("Details call failed");
+           }
+       });
+   });
+</script>
+
+

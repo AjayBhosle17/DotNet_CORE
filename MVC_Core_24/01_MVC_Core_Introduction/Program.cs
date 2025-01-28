@@ -26,9 +26,14 @@ namespace _01_MVC_Core_Introduction
 
             app.UseAuthorization();
 
+           /* app.MapControllerRoute( // use here conventional based routing
+                name: "defaultname",
+                pattern: "{controller=Category}/{action=Index}/{name}");*/
+
             app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Category}/{action=Index}/{id?}");
+               name: "default",
+               pattern: "{controller=Category}/{action=Index}/{id?}");
+
 
             app.Run();
         }

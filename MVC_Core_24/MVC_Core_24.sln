@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MVC_Core_Introduction", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTAgHelper", "CustomTAgHelper\CustomTAgHelper.csproj", "{7EA269D0-DA67-4763-99DA-C253F1CB5AC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ViewToController", "02_ViewToController\02_ViewToController.csproj", "{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7EA269D0-DA67-4763-99DA-C253F1CB5AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EA269D0-DA67-4763-99DA-C253F1CB5AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EA269D0-DA67-4763-99DA-C253F1CB5AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEF8E13-B4B7-44B4-A401-171E1D904CD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

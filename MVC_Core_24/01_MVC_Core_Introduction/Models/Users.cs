@@ -18,7 +18,7 @@ namespace _01_MVC_Core_Introduction.Models
         public string Email { get; set; }
 
         [JsonPropertyName("address")]
-        public Address Address { get; set; }
+        public Address Address { get; set; }    
     }
 
     public class Address

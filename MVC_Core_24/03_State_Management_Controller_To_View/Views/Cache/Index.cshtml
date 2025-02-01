@@ -1,0 +1,36 @@
+﻿@model string
+
+<h2>Index View Page</h2>
+
+<p>Name is : @Model</p>
+
+
+<table>
+	<thead>
+
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+
+			<th>Email</th>
+
+		</tr>
+
+	</thead>
+	<tbody>
+
+		@if (ViewBag.Customers!=null){
+
+			foreach (Customer c in ViewBag.Customers){
+
+				<tr>
+					<td>@c.Name</td>
+					<td>@c.Age</td>
+					<td>@c.Email</td>
+
+
+				</tr>
+			}
+		}
+	</tbody>
+</table>

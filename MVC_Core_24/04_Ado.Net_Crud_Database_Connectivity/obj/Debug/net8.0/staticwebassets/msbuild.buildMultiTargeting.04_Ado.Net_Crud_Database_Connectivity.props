@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\04_Ado.Net_Crud_Database_Connectivity.props" />
+</Project>

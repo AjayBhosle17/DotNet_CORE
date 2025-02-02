@@ -1,0 +1,14 @@
+﻿create database ADOTNETCORE24DB
+
+use ADOTNETCORE24DB
+
+CREATE TABLE Category (
+    Id INT PRIMARY KEY IDENTITY, 
+    Name VARCHAR(20) NOT NULL, 
+    Rating INT CHECK (Rating >= 1 AND Rating <= 5) NOT NULL
+);
+
+INSERT INTO Category
+VALUES 
+    ('Mens Wear', 5), 
+    ('Kids Wear', 4);

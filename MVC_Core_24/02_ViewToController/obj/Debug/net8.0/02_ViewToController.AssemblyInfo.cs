@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_ViewToController")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f9be215b7afe0e3dccddd2060ea4e5418d4005")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6be32f44e3b22f04d09c595cb6dd5ff32c2d037")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_ViewToController")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_ViewToController")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

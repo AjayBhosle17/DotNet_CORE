@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03_State_Management_Controller_To_View")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c53162b2385da8aea19f8cb711ddc4a247c2686")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda502a758aeb5c2379d26b6f68bd0165b315d53")]
 [assembly: System.Reflection.AssemblyProductAttribute("03_State_Management_Controller_To_View")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03_State_Management_Controller_To_View")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

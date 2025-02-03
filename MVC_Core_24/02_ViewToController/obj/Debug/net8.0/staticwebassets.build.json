@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "emFOUuCzhW8d7bQaeivczhUZn7yMl9p7ZNOEtqtL68A=",
+  "Hash": "A+kerg5qCD6kRGJRxmMCJr0WRmJRVl5/MyEBRPByo4o=",
   "Source": "02_ViewToController",
   "BasePath": "_content/02_ViewToController",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\02_ViewToController\\wwwroot\\Images\\Ajay_Bhosle_IT.pdf",
+      "SourceId": "02_ViewToController",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\02_ViewToController\\wwwroot\\",
+      "BasePath": "_content/02_ViewToController",
+      "RelativePath": "Images/Ajay_Bhosle_IT#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fyhga8r4lv",
+      "Integrity": "GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Ajay_Bhosle_IT.pdf"
     },
     {
       "Identity": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\02_ViewToController\\wwwroot\\js\\site.js",
@@ -1645,6 +1666,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Ajay_Bhosle_IT.fyhga8r4lv.pdf",
+      "AssetFile": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\02_ViewToController\\wwwroot\\Images\\Ajay_Bhosle_IT.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 10:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fyhga8r4lv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Ajay_Bhosle_IT.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Ajay_Bhosle_IT.pdf",
+      "AssetFile": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\02_ViewToController\\wwwroot\\Images\\Ajay_Bhosle_IT.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 10:36:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw="
         }
       ]
     },

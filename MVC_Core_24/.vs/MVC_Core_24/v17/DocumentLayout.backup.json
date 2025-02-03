@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\models\\sqlscript.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\models\\sqlscript.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\models\\categorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\models\\categorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\05_efcoredbfirstapproch\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1021E5AD-30E5-4ACD-9372-EBD6523779C0}|05_EFCoreDBFirstApproch\\05_EFCoreDBFirstApproch.csproj|solutionrelative:05_efcoredbfirstapproch\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\models\\sqlscript.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\models\\sqlscript.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,18 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\04_ado.net_crud_database_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}|04_Ado.Net_Crud_Database_Connectivity\\04_Ado.Net_Crud_Database_Connectivity.csproj|solutionrelative:04_ado.net_crud_database_connectivity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,77 +121,205 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T13:08:58.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T12:41:33.04Z",
+              "WhenOpened": "2025-02-03T13:06:49.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlScript.txt",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\SqlScript.txt",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Models\\SqlScript.txt",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\SqlScript.txt",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Models\\SqlScript.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-03T12:54:58.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAABlAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T11:50:28.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T11:38:14.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T11:34:16.179Z",
+              "WhenOpened": "2025-02-03T12:46:08.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAIwMwAAAACAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T11:32:08.164Z",
+              "WhenOpened": "2025-02-03T12:19:28.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\efpt.config.json",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\efpt.config.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\efpt.config.json",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\efpt.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T12:05:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T12:42:36.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBwAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T12:27:47.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Models\\Entities\\Category.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:56:28.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T12:20:24.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDBContext.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\CategoryDBContext.cs",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Models\\CategoryDBContext.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Models\\CategoryDBContext.cs",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Models\\CategoryDBContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:54:39.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\appsettings.json",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\appsettings.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\appsettings.json",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T12:12:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Program.cs",
+              "RelativeDocumentMoniker": "05_EFCoreDBFirstApproch\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\05_EFCoreDBFirstApproch\\Program.cs",
+              "RelativeToolTip": "05_EFCoreDBFirstApproch\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:03:46.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:38:14.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwMwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:32:08.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Delete.cshtml",
               "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Delete.cshtml",
@@ -143,12 +327,11 @@
               "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Delete.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T13:09:12.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T13:09:12.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Edit.cshtml",
               "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Edit.cshtml",
@@ -156,51 +339,11 @@
               "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Edit.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T13:07:40.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T13:07:40.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T11:51:53.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T11:59:02.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
-              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
-              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-02T11:04:38.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\_ViewImports.cshtml",
@@ -208,8 +351,91 @@
               "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T11:55:26.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T11:55:26.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T11:04:38.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:34:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:50:28.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SqlScript.txt",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\SqlScript.txt",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Models\\SqlScript.txt",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Models\\SqlScript.txt",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Models\\SqlScript.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-02T13:24:59.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:51:53.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T12:41:33.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "04_Ado.Net_Crud_Database_Connectivity\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-02T11:59:02.528Z"
             }
           ]
         }

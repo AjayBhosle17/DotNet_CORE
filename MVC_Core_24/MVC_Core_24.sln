@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_State_Management_Control
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Ado.Net_Crud_Database_Connectivity", "04_Ado.Net_Crud_Database_Connectivity\04_Ado.Net_Crud_Database_Connectivity.csproj", "{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_EFCoreDBFirstApproch", "05_EFCoreDBFirstApproch\05_EFCoreDBFirstApproch.csproj", "{1021E5AD-30E5-4ACD-9372-EBD6523779C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2A62BE-6C83-4FA3-8D43-45AB43C42DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1021E5AD-30E5-4ACD-9372-EBD6523779C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1021E5AD-30E5-4ACD-9372-EBD6523779C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1021E5AD-30E5-4ACD-9372-EBD6523779C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1021E5AD-30E5-4ACD-9372-EBD6523779C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

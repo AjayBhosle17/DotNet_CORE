@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\05_EFCoreDBFirstApproch.props" />
+</Project>

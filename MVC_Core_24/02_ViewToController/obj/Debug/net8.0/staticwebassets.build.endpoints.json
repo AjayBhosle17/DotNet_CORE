@@ -85,6 +85,88 @@
       ]
     },
     {
+      "Route": "Images/Ajay_Bhosle_IT.fyhga8r4lv.pdf",
+      "AssetFile": "Images/Ajay_Bhosle_IT.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 10:36:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fyhga8r4lv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Ajay_Bhosle_IT.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Ajay_Bhosle_IT.pdf",
+      "AssetFile": "Images/Ajay_Bhosle_IT.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "146417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 31 Jan 2025 10:36:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GSeOGd7egnL5/IyqEPctQAbBgt6Aio7xX4UHed11Dlw="
+        }
+      ]
+    },
+    {
       "Route": "css/site.c2tiyv64ts.css",
       "AssetFile": "css/site.css",
       "Selectors": [],

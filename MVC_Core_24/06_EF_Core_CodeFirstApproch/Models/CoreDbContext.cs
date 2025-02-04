@@ -11,7 +11,7 @@ namespace _06_EF_Core_CodeFirstApproch.Models
         }
 
         public DbSet<Category> Categories { get; set; }
-        public DbSet<Product> Product { get; set; }
+        public DbSet<Product> Products { get; set; }
 
 
 

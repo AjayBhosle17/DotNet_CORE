@@ -67,6 +67,66 @@ namespace Web_UI.Controllers
             
         }
 
-        
+        [HttpGet]
+
+        public IActionResult Edit(int? id) {
+
+            if (id == null)
+            {
+                return View();
+            }
+
+            var category = _service.Details(id);
+
+            var categoryModel = _mapper.Map<CategoryModel>(category);
+            return View(categoryModel);
+
+        }
+
+        [HttpPost]
+        public IActionResult Edit(CategoryModel model) {
+
+            if (model == null) { 
+            
+                return View();
+            }
+
+            if (ModelState.IsValid)
+            {
+
+                var category = _mapper.Map<Category>(model);
+
+                _service.Edit(category);
+            }
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+
+        public IActionResult Delete(int? id)
+        {
+            if (id == null)
+            {
+                return View();
+            }
+
+            var category = _service.Details(id);
+
+            var categoryModel = _mapper.Map<CategoryModel>(category);
+
+            return View(categoryModel);
+
+        }
+
+        [HttpPost]
+        [ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int? id) {
+
+           
+            _service.Delete(id);
+
+            return RedirectToAction("Index");
+
+        }
     }
 }

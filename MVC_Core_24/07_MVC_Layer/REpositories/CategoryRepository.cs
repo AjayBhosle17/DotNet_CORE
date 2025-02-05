@@ -22,10 +22,34 @@ namespace Repositories
             _Context.SaveChanges();
         }
 
+        public void Delete(int? id)
+        {
+            var category = _Context.Categories.Find(id);
+
+            if (category != null) { 
+            
+                _Context.Categories.Remove(category);
+                _Context.SaveChanges();
+            }
+        }
+
         public Category Details(int? id)
         {
             var category = _Context.Categories.Find(id);
             return category;
+        }
+
+        public void Edit(Category category)
+        {
+            var c = _Context.Categories.Find(category.Id);
+
+            if (c != null)
+            {
+                c.Name = category.Name;
+                c.Order = category.Order;
+
+                _Context.SaveChanges();
+            }
         }
 
         public List<Category> GetAll()

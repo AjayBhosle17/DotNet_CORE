@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Logout";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="card shadow-lg border-0 p-4 rounded-4 text-center" style="max-width: 500px; width: 100%;">
+        <div class="mb-3">
+            <img src="https://cdn-icons-png.flaticon.com/512/1828/1828427.png" alt="Logout Icon" width="100" />
+        </div>
+
+        <h2 class="fw-bold text-danger">Are you sure you want to log out?</h2>
+        <p class="text-muted">You will be logged out of your account.</p>
+        <hr />
+
+        <form asp-action="Logout" asp-controller="Account" method="post">
+            <button type="submit" class="btn btn-danger fw-bold shadow">Yes, Logout</button>
+            <a asp-action="Index" asp-controller="Home" class="btn btn-outline-secondary fw-bold shadow ms-2">Cancel</a>
+        </form>
+
+        <hr />
+        <p class="text-muted mt-3">✨ <strong>Thank you for visiting!</strong> We hope to see you again soon. ✨</p>
+    </div>
+</div>

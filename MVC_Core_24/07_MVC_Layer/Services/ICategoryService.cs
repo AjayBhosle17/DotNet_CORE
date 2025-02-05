@@ -13,5 +13,9 @@ namespace Services
         void Create(Category category);
 
         Category Details(int? id);
+
+        void Edit(Category category);
+
+        void Delete(int? id);
     }
 }

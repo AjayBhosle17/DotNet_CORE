@@ -1,0 +1,6 @@
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\bin\Debug\Models.dll
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\bin\Debug\Models.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\obj\Debug\Models.dll
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\Models\obj\Debug\Models.pdb

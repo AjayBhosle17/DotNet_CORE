@@ -22,9 +22,19 @@ namespace Services
             _repo.Create(category);
         }
 
+        public void Delete(int? id)
+        {
+            _repo.Delete(id);
+        }
+
         public Category Details(int? id)
         {
             return _repo.Details(id);
+        }
+
+        public void Edit(Category category)
+        {
+            _repo.Edit(category);
         }
 
         public List<Category> GetAll()

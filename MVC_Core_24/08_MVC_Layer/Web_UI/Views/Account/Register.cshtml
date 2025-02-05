@@ -1,0 +1,88 @@
+﻿@model Models.UserModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1 class="text-center">Register</h1>
+
+<h4 class="text-center text-muted">Create your account to get started</h4>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="FirstName" class="form-control border-primary shadow-sm" placeholder="Enter first name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="LastName" class="form-control border-primary shadow-sm" placeholder="Enter last name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="Email" class="form-control border-primary shadow-sm" placeholder="Enter email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmEmail" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="ConfirmEmail" class="form-control border-primary shadow-sm" placeholder="Enter Confirm email" />
+                <span asp-validation-for="ConfirmEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="Password" type="password" class="form-control border-primary shadow-sm" placeholder="Enter password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="ConfirmPassword" type="password" class="form-control border-primary shadow-sm" placeholder="Enter Confirm password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DateOfBirth" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="DateOfBirth" type="date" class="form-control border-primary shadow-sm" />
+                <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Age" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="Age" class="form-control border-primary shadow-sm" placeholder="Enter your age" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FacebookUrl" class="control-label fw-bold text-secondary"></label>
+                <input asp-for="FacebookUrl" type="url" class="form-control border-primary shadow-sm" placeholder="Enter Facebook profile URL" />
+                <span asp-validation-for="FacebookUrl" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Sign Up" class="btn btn-primary w-100 fw-bold shadow" />
+            </div>
+        </form>
+
+        <!-- Already Have Account? Link -->
+        <div class="text-center mt-3">
+            <a asp-action="Login" class="text-decoration-none text-primary">Already have an account? Log In</a>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-3">
+    <a asp-action="Login">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

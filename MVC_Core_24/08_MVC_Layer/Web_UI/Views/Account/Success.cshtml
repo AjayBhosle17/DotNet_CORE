@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Welcome";
+}
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="text-center">
+        <div class="card shadow-lg border-0 p-4 rounded-4" style="max-width: 500px;">
+            <div class="text-center">
+                <img src="https://cdn-icons-png.flaticon.com/512/845/845646.png" alt="Success" width="100" class="mb-3">
+                <h2 class="fw-bold text-success">Login Successful!</h2>
+                <p class="text-muted">Welcome back! You have successfully logged in.</p>
+            </div>
+            <hr />
+
+            <div class="d-grid gap-2">
+                <a asp-action="Dashboard" class="btn btn-success fw-bold shadow">Go to Dashboard</a>
+                <a asp-action="Logout" class="btn btn-outline-danger fw-bold shadow">Logout</a>
+            </div>
+        </div>
+    </div>
+</div>

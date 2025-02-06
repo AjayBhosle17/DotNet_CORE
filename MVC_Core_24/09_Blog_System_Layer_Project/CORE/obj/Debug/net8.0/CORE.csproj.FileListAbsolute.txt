@@ -1,0 +1,15 @@
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\bin\Debug\net8.0\CORE.deps.json
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\bin\Debug\net8.0\CORE.runtimeconfig.json
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\bin\Debug\net8.0\CORE.dll
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\bin\Debug\net8.0\CORE.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.csproj.AssemblyReference.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.AssemblyInfoInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.AssemblyInfo.cs
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.csproj.CoreCompileInputs.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.sourcelink.json
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.dll
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\refint\CORE.dll
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\CORE.genruntimeconfig.cache
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\09_Blog_System_Layer_Project\CORE\obj\Debug\net8.0\ref\CORE.dll

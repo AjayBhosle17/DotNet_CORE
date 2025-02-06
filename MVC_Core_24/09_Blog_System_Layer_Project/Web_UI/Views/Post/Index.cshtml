@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Models.PostModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="mb-3">Posts</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.PostId)</th>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Content)</th>
+            <th>@Html.DisplayNameFor(model => model.PublishedDate)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.PostId)</td>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.Content)</td>
+                <td>@Html.DisplayFor(modelItem => item.PublishedDate)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.PostId" class="btn btn-warning btn-md">Edit</a>
+                    <a asp-action="ViewPost" asp-route-id="@item.PostId" class="btn btn-info btn-md">View Post</a>
+                    <a asp-action="Delete" asp-route-id="@item.PostId" class="btn btn-danger btn-md">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

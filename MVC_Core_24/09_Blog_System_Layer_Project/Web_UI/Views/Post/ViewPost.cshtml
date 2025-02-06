@@ -1,0 +1,51 @@
+﻿@model Models.PostModel
+
+@{
+    ViewData["Title"] = "View Post";
+}
+
+<h1 class="text-center my-4">View Post</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h4>Post Details</h4>
+            </div>
+            <div class="card-body">
+                <dl class="row">
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.PostId)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.PostId)
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.Title)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Title)
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.Content)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.Content)
+                    </dd>
+                    <dt class="col-sm-3 font-weight-bold">
+                        @Html.DisplayNameFor(model => model.PublishedDate)
+                    </dt>
+                    <dd class="col-sm-9">
+                        @Html.DisplayFor(model => model.PublishedDate)
+                    </dd>
+                </dl>
+            </div>
+            <div class="card-footer text-center">
+                <div>
+                    @Html.ActionLink("Edit", "Edit", new { id = Model.PostId }, new { @class = "btn btn-warning btn-sm" }) |
+                    <a class="btn btn-secondary btn-sm" asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

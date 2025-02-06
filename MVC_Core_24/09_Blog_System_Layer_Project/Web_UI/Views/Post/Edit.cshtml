@@ -1,0 +1,62 @@
+﻿@model Models.PostModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1 class="text-center my-4">Edit Post</h1>
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h4>Edit Post</h4>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
+
+                    <!-- Title Field -->
+                    <div class="form-group">
+                        <label asp-for="Title" class="control-label font-weight-bold"></label>
+                        <input asp-for="Title" class="form-control" placeholder="Enter post title" />
+                        <span asp-validation-for="Title" class="text-danger"></span>
+                    </div>
+
+                    <!-- Content Field -->
+                    <div class="form-group">
+                        <label asp-for="Content" class="control-label font-weight-bold"></label>
+                        <textarea asp-for="Content" class="form-control" rows="6" placeholder="Enter post content"></textarea>
+                        <span asp-validation-for="Content" class="text-danger"></span>
+                    </div>
+
+                    <!-- Published Date Field -->
+                  
+
+                    <div class="form-group">
+                        <label asp-for="PublishedDate" class="control-label font-weight-bold"></label>
+                        <input asp-for="PublishedDate" class="form-control" type="date" />
+
+                        <span asp-validation-for="PublishedDate" class="text-danger"></span>
+                    </div>
+
+
+                    <!-- Submit Button -->
+                    <div class="form-group text-center mt-4">
+                        <input type="submit" value="Save" class="btn btn-success btn-lg" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mt-4">
+    <a class="btn btn-secondary btn-sm" asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

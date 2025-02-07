@@ -1,11 +1,17 @@
 ﻿using AutoMapper;
 using CORE;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using Web_UI.Models;
 
 namespace Web_UI.Controllers
 {
+    /*[Authorize]*/
+    /*[Authorize(Roles ="admin")]*/
+    /*[Authorize(Policy ="AdminOnly")]*/
+
+    [Authorize]
     public class CategoryController : Controller
     {
         ICategoryService _service;
@@ -26,6 +32,7 @@ namespace Web_UI.Controllers
         }
 
         [HttpGet]
+        [Authorize(Policy="AdminOnly")]
         public IActionResult Create()
         {
             return View();

@@ -1,4 +1,6 @@
-﻿public class User
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+public class User
 {
     public int Id { get; set; }
 
@@ -13,6 +15,11 @@
     public int? Age {  get; set; }
 
     public string FacebookUrl { get; set; }
+
+    [NotMapped]
+    public string  RoleName { get; set; }
+
     public ICollection<UserRole> UserRoles { get; set; }
+
 
 }

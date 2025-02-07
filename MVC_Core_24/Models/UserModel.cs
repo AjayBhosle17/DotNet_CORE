@@ -59,5 +59,7 @@ namespace Models
         [DisplayName("Facebook Page Url")]
         [Url(ErrorMessage ="please enter valid url")]
         public string FacebookUrl { get; set; }
+
+        public string RoleName { get; set; }
     }
 }

@@ -29,7 +29,32 @@ namespace Web_UI
             DependencyRegisters.RegisterAllDependencies(builder.Services);
 
 
-  
+            //Authenticate Dependency in program.cs
+
+            builder.Services.AddAuthentication("MyAppAuthenticationScheme").AddCookie
+                ("MyAppAuthenticationScheme", options =>
+                {
+                    options.LoginPath = "/Account/Login/";
+                    options.AccessDeniedPath = "/Account/AccessDenied";
+
+
+                });
+
+
+            //Add Authorization Dependency
+
+
+            builder.Services.AddAuthorization(options =>
+            {
+                options.AddPolicy("AdminOnly", policy =>
+                    policy.RequireRole("admin"));
+
+                options.AddPolicy("UserOnly", policy =>
+                    policy.RequireRole("user"));
+
+                // Add here also
+
+            });
 
 
 

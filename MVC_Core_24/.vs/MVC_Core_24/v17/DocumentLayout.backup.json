@@ -3,104 +3,64 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\post\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\post\\viewpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\post\\viewpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\post\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F0A370B-9422-486D-B864-C5D64F6101A9}|09_Blog_System_Layer_Project\\Services\\Services.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F0A370B-9422-486D-B864-C5D64F6101A9}|09_Blog_System_Layer_Project\\Services\\Services.csproj|solutionrelative:09_blog_system_layer_project\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}|09_Blog_System_Layer_Project\\Models\\Models.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}|09_Blog_System_Layer_Project\\Models\\Models.csproj|solutionrelative:09_blog_system_layer_project\\models\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\views\\post\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F0A370B-9422-486D-B864-C5D64F6101A9}|09_Blog_System_Layer_Project\\Services\\Services.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\services\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F0A370B-9422-486D-B864-C5D64F6101A9}|09_Blog_System_Layer_Project\\Services\\Services.csproj|solutionrelative:09_blog_system_layer_project\\services\\iblogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C5776-1E27-4F76-B966-6C7557C0947D}|09_Blog_System_Layer_Project\\Repositories\\Repositories.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{701C5776-1E27-4F76-B966-6C7557C0947D}|09_Blog_System_Layer_Project\\Repositories\\Repositories.csproj|solutionrelative:09_blog_system_layer_project\\repositories\\blogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{701C5776-1E27-4F76-B966-6C7557C0947D}|09_Blog_System_Layer_Project\\Repositories\\Repositories.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{701C5776-1E27-4F76-B966-6C7557C0947D}|09_Blog_System_Layer_Project\\Repositories\\Repositories.csproj|solutionrelative:09_blog_system_layer_project\\repositories\\iblogpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\core\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|solutionrelative:09_blog_system_layer_project\\core\\postdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\core\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|solutionrelative:09_blog_system_layer_project\\core\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|solutionrelative:08_mvc_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\web_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4AD8B8A-B3D2-4068-A349-473794905E2C}|09_Blog_System_Layer_Project\\Web_UI\\Web_UI.csproj|solutionrelative:09_blog_system_layer_project\\web_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\09_blog_system_layer_project\\core\\migrations\\20250206044540_initialpostdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F5BEFF0-7636-4168-94A8-9BA66D9734FE}|09_Blog_System_Layer_Project\\CORE\\CORE.csproj|solutionrelative:09_blog_system_layer_project\\core\\migrations\\20250206044540_initialpostdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|solutionrelative:08_mvc_layer\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52748515-C738-4C8B-9711-9A3F060AAAD1}|08_MVC_Layer\\CORE\\CORE.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52748515-C738-4C8B-9711-9A3F060AAAD1}|08_MVC_Layer\\CORE\\CORE.csproj|solutionrelative:08_mvc_layer\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,320 +86,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IBlogPostRepository.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Repositories\\IBlogPostRepository.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Repositories\\IBlogPostRepository.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Repositories\\IBlogPostRepository.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Repositories\\IBlogPostRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:26:14.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Edit.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Edit.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Edit.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Edit.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCUAAABYAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T11:17:16.222Z",
+              "WhenOpened": "2025-02-07T05:28:04.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Index.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Index.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Index.cshtml*",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Index.cshtml*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T10:42:27.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Delete.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Delete.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Delete.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T11:58:02.924Z",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:23:18.564Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T10:16:18.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BlogPostRepository.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Repositories\\BlogPostRepository.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Repositories\\BlogPostRepository.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Repositories\\BlogPostRepository.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Repositories\\BlogPostRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:46:44.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Controllers\\PostController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Controllers\\PostController.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Controllers\\PostController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:50:39.484Z",
+              "WhenOpened": "2025-02-07T04:51:02.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwEIAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T12:07:21.409Z",
+              "WhenOpened": "2025-02-07T04:47:34.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ViewPost.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\ViewPost.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\ViewPost.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\ViewPost.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\ViewPost.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T12:05:12.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Create.cshtml",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Create.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Create.cshtml",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Views\\Post\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T05:00:08.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogPostService.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Services\\BlogPostService.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Services\\BlogPostService.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Services\\BlogPostService.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Services\\BlogPostService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:48:49.408Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PostModel.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Models\\PostModel.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Models\\PostModel.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Models\\PostModel.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Models\\PostModel.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:52:48.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IBlogPostService.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Services\\IBlogPostService.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Services\\IBlogPostService.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Services\\IBlogPostService.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Services\\IBlogPostService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:48:25.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "jquery.js",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ViewState": "AgIAAMkBAAAAAAAAAAAQwNoPAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T04:57:30.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20250206044540_InitialPostDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044540_InitialPostDB.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044540_InitialPostDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044540_InitialPostDB.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044540_InitialPostDB.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:45:41.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250206044132_InitialPostDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206044132_InitialPostDB.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:41:32.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250206043841_InitialPostDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043841_InitialPostDB.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:38:41.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserModel.cs",
               "RelativeToolTip": "Models\\UserModel.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA9wDAAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:37:34.812Z",
+              "WhenOpened": "2025-02-07T03:45:12.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Post.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Post.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Post.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Post.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\REpositories\\UserRepository.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\UserRepository.cs",
+              "RelativeToolTip": "08_MVC_Layer\\REpositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:29:04.103Z",
+              "WhenOpened": "2025-02-07T03:51:53.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PostDBContext.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\PostDBContext.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\PostDBContext.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\PostDBContext.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\PostDBContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:28:56.629Z",
+              "DocumentIndex": 10,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T04:24:42.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250206043551_InitialPostDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206043551_InitialPostDB.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:35:52.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Program.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\Program.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:32:09.74Z",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T05:08:31.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\appsettings.json",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\Web_UI\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\Web_UI\\appsettings.json",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\Web_UI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-06T04:32:31.453Z",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T04:42:55.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Program.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Program.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Program.cs",
               "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCEAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:31:38.487Z",
+              "WhenOpened": "2025-02-07T04:19:18.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "20250206042802_InitialPostDB.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs",
-              "RelativeDocumentMoniker": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs",
-              "RelativeToolTip": "09_Blog_System_Layer_Project\\CORE\\Migrations\\20250206042802_InitialPostDB.cs",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T05:03:11.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repositories",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\Repositories.csproj",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\REpositories\\Repositories.csproj",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\Repositories.csproj",
+              "RelativeToolTip": "08_MVC_Layer\\REpositories\\Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T03:51:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250207034848_UpdateUsers.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
+              "RelativeToolTip": "08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T04:28:03.088Z"
+              "WhenOpened": "2025-02-07T03:48:48.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:45:06.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\User.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\CORE\\User.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\User.cs",
+              "RelativeToolTip": "08_MVC_Layer\\CORE\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:44:07.708Z",
+              "EditorCaption": ""
             }
           ]
         }

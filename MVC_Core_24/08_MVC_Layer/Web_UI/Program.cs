@@ -1,4 +1,5 @@
 using CORE;
+using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.EntityFrameworkCore;
 using Services;
 
@@ -11,7 +12,13 @@ namespace Web_UI
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+
+            //Add Globally Authrization
+
+            builder.Services.AddControllersWithViews(configure =>
+            {
+                configure.Filters.Add(new AuthorizeFilter());
+            });
 
             //add dependency  of dbcontext with cs
 
@@ -55,6 +62,18 @@ namespace Web_UI
                 // Add here also
 
             });
+
+
+            //Registering Dependency
+
+            //1.Transient
+
+            // builder.Services.AddTransient<TestService>();
+            builder.Services.AddScoped<TestService>();
+
+           // builder.Services.AddSingleton<TestService>();
+
+
 
 
 

@@ -2,7 +2,22 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<!-- Bootstrap Home Page UI -->
+<div class="container-fluid bg-primary text-white min-vh-100 d-flex flex-column justify-content-center align-items-center">
+    <div class="text-center">
+        <h1 class="display-3 fw-bold">Welcome to My New World</h1>
+        <p class="fs-4">Discover amazing experiences and endless possibilities.</p>
+
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a asp-action="Index" asp-controller="Category" class="btn btn-light btn-lg fw-bold shadow mt-3">Get Started →</a>
+
+        }
+        else
+        {
+            <a asp-action="Dadu"  class="btn btn-light btn-lg fw-bold shadow mt-3">
+                Get Started →
+            </a>
+        }
+    </div>
 </div>

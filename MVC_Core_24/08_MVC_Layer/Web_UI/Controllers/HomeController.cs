@@ -18,6 +18,11 @@ namespace Web_UI.Controllers
             return View();
         }
 
+        public IActionResult Dadu()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

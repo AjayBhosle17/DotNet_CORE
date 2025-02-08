@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Dadu - Welcome";
+}
+
+<div class="container-fluid min-vh-100 d-flex justify-content-center align-items-center"
+     style="background: linear-gradient(to right, #ff758c, #ff7eb3);">
+
+    <div class="card shadow-lg border-0 p-5 rounded-4 text-center" style="max-width: 500px;">
+        <h2 class="fw-bold text-danger">Access Restricted</h2>
+
+        <div class="alert alert-warning mt-3 rounded-3 shadow-sm">
+            <p class="fs-5 text-dark fw-semibold">You need to Register then log in first before accessing categories and profiles.</p>
+        </div>
+
+        <a asp-action="Register" asp-controller="Account" class="btn btn-lg btn-danger fw-bold shadow-sm px-4">
+            🔒 Register Now
+        </a>
+    </div>
+</div>

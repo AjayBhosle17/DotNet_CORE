@@ -5,7 +5,7 @@
 }
 <style>
     .login-container {
-        margin-top: -50px; 
+        margin-top: -50px;
     }
 </style>
 
@@ -18,7 +18,8 @@
         <hr />
 
         <form asp-action="Login">
-            <div asp-validation-summary="ModelOnly" class="alert alert-danger d-none"></div>
+            <!-- FIXED: Display Validation Summary if errors exist -->
+            <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
 
             <!-- Email Input -->
             <div class="mb-3">
@@ -38,11 +39,12 @@
             <div class="d-grid">
                 <button type="submit" class="btn btn-primary fw-bold shadow">Login</button>
             </div>
+           
         </form>
 
         <!-- Back to List Link -->
         <div class="text-center mt-3">
-            <a asp-action="Index" asp-controller="Account" class="text-decoration-none text-primary fw-bold">← Back to Home</a>
+            <a asp-action="Register" asp-controller="Account" class="btn btn-outline-primary fw-bold shadow">Create a New Account</a>
         </div>
     </div>
 </div>

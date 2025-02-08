@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_Ado.Net_Crud_Database_Connectivity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42276753b3e77690b0e16384a8840adf201d17e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90ba744c4751e690c59a0de67bd47e3045089da")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_Ado.Net_Crud_Database_Connectivity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_Ado.Net_Crud_Database_Connectivity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

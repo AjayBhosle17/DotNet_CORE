@@ -592,3 +592,4 @@ D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\08_MVC_Layer\Web_UI\obj\Debug\net8.0\
 D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\08_MVC_Layer\Web_UI\obj\Debug\net8.0\ref\Web_UI.dll
 D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\08_MVC_Layer\Web_UI\bin\Debug\net8.0\Models.dll
 D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\08_MVC_Layer\Web_UI\bin\Debug\net8.0\Models.pdb
+D:\Coding2\Ajay V#\DotNet_CORE\MVC_Core_24\08_MVC_Layer\Web_UI\bin\Debug\net8.0\BCrypt.Net-Next.dll

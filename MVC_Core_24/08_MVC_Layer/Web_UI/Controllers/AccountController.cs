@@ -8,6 +8,7 @@ using Web_UI.Models;
 
 namespace Web_UI.Controllers
 {
+    [AllowAnonymous]
     public class AccountController : Controller
     {
         IUserService _service;
@@ -46,31 +47,32 @@ namespace Web_UI.Controllers
         {
             if (ModelState.IsValid)
             {
-                UserModel userModel = _service.Login(model.Email, model.Password);
-
-                //one type of idntity
-                var claims = new List<Claim>()
-                {
-                    new Claim(ClaimTypes.Name,userModel.Email),
-                    new Claim(ClaimTypes.Name,userModel.RoleName),
-                    new Claim(ClaimTypes.Role,userModel.RoleName)
-                };
-
-                var ClaimsIdentity = new ClaimsIdentity(claims, "MyAppAuthenticationScheme");
-
-                // userIdentity stored in cookies
-              await  HttpContext.SignInAsync("MyAppAuthenticationScheme", new ClaimsPrincipal(ClaimsIdentity));
-
-
+                UserModel userModel = _service.Login(model.Email,
+                    model.Password);
 
                 if (userModel != null)
                 {
-                    return RedirectToAction("Success");
+                    // user is registered and authenticated
+
+                    var claims = new List<Claim>()
+                    {
+                            new Claim(ClaimTypes.Name, userModel.Email),
+                            new Claim(ClaimTypes.Role, userModel.RoleName)
+                    };
+
+                    var claimsIdentity = new ClaimsIdentity(claims, "MyAppAuthenticationScheme");
+
+                    await HttpContext.SignInAsync("MyAppAuthenticationScheme",
+                          new ClaimsPrincipal(claimsIdentity)); // user identity gets stored in cookie
+
+                    return RedirectToAction("Index", "Home");
                 }
- 
             }
-            return View();
+
+            ModelState.AddModelError("", "Invalid email and or password");
+            return View(model);
         }
+
 
         [HttpGet]
         public IActionResult Success() { 

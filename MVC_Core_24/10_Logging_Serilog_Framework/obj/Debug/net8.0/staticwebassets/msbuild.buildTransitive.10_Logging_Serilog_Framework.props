@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\10_Logging_Serilog_Framework.props" />
+</Project>

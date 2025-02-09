@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_UI", "09_Blog_System_La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "09_Blog_System_Layer_Project\Models\Models.csproj", "{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_UI_Test", "08_MVC_Layer\Web_UI_Test\Web_UI_Test.csproj", "{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Logging_Serilog_Framework", "10_Logging_Serilog_Framework\10_Logging_Serilog_Framework.csproj", "{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -160,5 +172,6 @@ Global
 		{701C5776-1E27-4F76-B966-6C7557C0947D} = {952C1CCD-76FB-467B-9E67-EA314DF3F2FF}
 		{C4AD8B8A-B3D2-4068-A349-473794905E2C} = {952C1CCD-76FB-467B-9E67-EA314DF3F2FF}
 		{0AB2FE5D-996B-4468-BD6A-7CBA1378FB0F} = {952C1CCD-76FB-467B-9E67-EA314DF3F2FF}
+		{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7} = {BFFA8261-EEEB-45C8-98B8-1128EE3907CE}
 	EndGlobalSection
 EndGlobal

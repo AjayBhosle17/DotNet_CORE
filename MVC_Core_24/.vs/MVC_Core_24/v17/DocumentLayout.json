@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DC0B36-7F95-45EB-BC84-0DFE4148371D}|06_EF_Core_CodeFirstApproch\\06_EF_Core_CodeFirstApproch.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\06_ef_core_codefirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47DC0B36-7F95-45EB-BC84-0DFE4148371D}|06_EF_Core_CodeFirstApproch\\06_EF_Core_CodeFirstApproch.csproj|solutionrelative:06_ef_core_codefirstapproch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\views\\log\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\views\\log\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}|08_MVC_Layer\\Web_UI_Test\\Web_UI_Test.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui_test\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF52FAFA-8E5B-4FFD-99A5-D58C476180F7}|08_MVC_Layer\\Web_UI_Test\\Web_UI_Test.csproj|solutionrelative:08_mvc_layer\\web_ui_test\\categorycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1005BAB-4726-4F20-A92C-DF1FAD5B8A03}|08_MVC_Layer\\REpositories\\Repositories.csproj|solutionrelative:08_mvc_layer\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3373B234-0EB3-4E94-B195-CBF72BB3F0F1}|08_MVC_Layer\\Web_UI\\Web_UI.csproj|solutionrelative:08_mvc_layer\\web_ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A29CD117-77C7-4AEA-8EB9-409A0D60BEC5}|Models\\Models.csproj|D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +150,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\06_EF_Core_CodeFirstApproch\\appsettings.json",
+              "RelativeDocumentMoniker": "06_EF_Core_CodeFirstApproch\\appsettings.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\06_EF_Core_CodeFirstApproch\\appsettings.json",
+              "RelativeToolTip": "06_EF_Core_CodeFirstApproch\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T17:39:44.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\Controllers\\LogController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Controllers\\LogController.cs",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\Controllers\\LogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:20:14.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\appsettings.json",
+              "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\appsettings.json",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\appsettings.json",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T17:19:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Program.cs",
+              "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\Program.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Program.cs",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:19:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:19:56.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Views\\Log\\Index.cshtml",
+              "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\Views\\Log\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Views\\Log\\Index.cshtml",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\Views\\Log\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T17:21:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoryControllerTest.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI_Test\\CategoryControllerTest.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI_Test\\CategoryControllerTest.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI_Test\\CategoryControllerTest.cs",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI_Test\\CategoryControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T16:40:28.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\AccountController.cs",
@@ -135,20 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T07:48:10.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Success.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Success.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Success.cshtml",
@@ -161,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Program.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Program.cs",
@@ -174,20 +280,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "TestService.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Services\\TestService.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Services\\TestService.cs",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Services\\TestService.cs",
               "RelativeToolTip": "08_MVC_Layer\\Services\\TestService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T04:28:00.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Test\\Index.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Test\\Index.cshtml",
@@ -200,7 +306,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T04:51:02.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T07:48:10.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TestController.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\TestController.cs",
@@ -213,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Login.cshtml",
@@ -226,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\REpositories\\UserRepository.cs",
@@ -239,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\HomeController.cs",
@@ -252,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Dadu.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Home\\Dadu.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Home\\Dadu.cshtml",
@@ -265,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\REpositories\\IUserRepository.cs",
@@ -278,33 +410,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
               "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-07T05:08:31.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAIBJwCkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBZwCkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-07T04:47:34.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Services\\UserService.cs",
@@ -317,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "UserModel.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
@@ -330,20 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "08_MVC_Layer\\Web_UI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T04:51:02.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Profile.cshtml",
@@ -356,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "AccessDenied.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\AccessDenied.cshtml",
@@ -369,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "08_MVC_Layer\\Web_UI\\Views\\Account\\Logout.cshtml",
@@ -382,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "Repositories.csproj",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\REpositories\\Repositories.csproj",
               "RelativeDocumentMoniker": "08_MVC_Layer\\REpositories\\Repositories.csproj",
@@ -395,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "20250207034848_UpdateUsers.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\CORE\\Migrations\\20250207034848_UpdateUsers.cs",
@@ -408,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Models\\UserRole.cs",
@@ -421,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\08_MVC_Layer\\CORE\\User.cs",
               "RelativeDocumentMoniker": "08_MVC_Layer\\CORE\\User.cs",

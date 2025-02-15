@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|solutionrelative:10_logging_serilog_framework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DC029CD-A8D1-465B-8C33-860F64CFEDEB}|10_Logging_Serilog_Framework\\10_Logging_Serilog_Framework.csproj|d:\\coding2\\ajay v#\\dotnet_core\\mvc_core_24\\10_logging_serilog_framework\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 231,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -176,26 +176,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\appsettings.json",
               "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\appsettings.json",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\appsettings.json*",
-              "RelativeToolTip": "10_Logging_Serilog_Framework\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\appsettings.json",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-08T17:19:48.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Program.cs",
               "RelativeDocumentMoniker": "10_Logging_Serilog_Framework\\Program.cs",
-              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Program.cs*",
-              "RelativeToolTip": "10_Logging_Serilog_Framework\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwB4AAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\Coding2\\Ajay V#\\DotNet_CORE\\MVC_Core_24\\10_Logging_Serilog_Framework\\Program.cs",
+              "RelativeToolTip": "10_Logging_Serilog_Framework\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T17:19:45.762Z",
               "EditorCaption": ""
